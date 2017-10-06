@@ -5,4 +5,6 @@
 
 ## ●将图像转换为字符画→CharImage.py  
 
-## ●Python实现2048→2048.py
+## ●Python实现2048→2048.py 
+
+## ●python写的射击小游戏，pygame实现→shootgame.py
